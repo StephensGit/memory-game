@@ -25,7 +25,7 @@ The project was built using create-react-app.The game allows users to flip cards
 
 - React
 - React Router
-- Hooks - useState, useEffect
+- Hooks - useState, useEffect & custom Hooks
 - Custom CSS
 
 ## Author
