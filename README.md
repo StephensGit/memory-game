@@ -5,7 +5,6 @@ This is memory game app I built following a tutorial from a course I completed o
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
